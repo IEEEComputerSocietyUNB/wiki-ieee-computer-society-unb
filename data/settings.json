@@ -1,25 +1,34 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Introdução",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "Computer society",
+          "slug": "computer-society"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Diretorias",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Projetos",
+          "slug": "projetos"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Comunicação",
+          "slug": "comunicacao"
+        },
+        {
+          "title": "Administrativa e Financeira",
+          "slug": "financeira"
+        },
+        {
+          "title": "Pessoas",
+          "slug": "pessoas"
         }
+
       ]
     }
   ]
