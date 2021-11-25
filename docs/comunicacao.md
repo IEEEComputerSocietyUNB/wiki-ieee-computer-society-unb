@@ -24,6 +24,7 @@ A Diretoria de Comunicação é livre para criar perfis em qualquer rede social 
 As redes sociais são bastante diversas e mudam a todo o momento, mas podemos definir dois tipos básicos de publicações:
 * **Publicações Institucionais**: São publicações direcionadas para promoção de atividades da CS. Exemplos: Eventos, projetos, novos membros, mudanças no capítulo, parcerias e etc.
 * **Publicações de Conteúdo**: São publicações de conteúdos diversos com objetivo de promover conhecimento e aumentar o engajamento. Exemplos: notícias de tecnologia, memes, dicas de programação e etc. 
+  
 As publicações do tipo institucional tem uma frequência variada, pois depende das atividades que a CS está realizando no momento. Por outro lado, as publicações de conteúdo devem ser mantidas semanalmente para garantir a movimentação do perfil e o engajamento dos seguidores. O número de publicações semanais vai depender bastante do número de membros na diretoria e de outras demandas, mas é esperado da diretoria garantir semanalmente a publicação de pelo menos uma de conteúdo e de todas as institucionais necessárias.
 
 ### Processo Seletivo
